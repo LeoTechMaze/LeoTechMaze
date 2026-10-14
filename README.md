@@ -45,3 +45,46 @@ AWS Cognito · Lambda · S3 · SNS · SQS · CloudWatch
 <p>
   <a href="https://linkedin.com/in/leoksm"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
+## Portfolio
+
+### FutureVault: secure document vault for wealth management firms
+
+**Web app**
+<p>
+  <img src="portfolio/futurevault-web-app-1.jpg" width="49%" />
+  <img src="portfolio/futurevault-web-app-2.jpg" width="49%" />
+</p>
+<p>
+  <img src="portfolio/futurevault-web-2.jpg" width="49%" />
+  <img src="portfolio/futurevault-web-3.jpg" width="49%" />
+</p>
+<p>
+  <img src="portfolio/futurevault-web-4.jpg" width="49%" />
+  <img src="portfolio/futurevault-web-5.jpg" width="49%" />
+</p>
+
+**iOS app (React Native)**
+
+<p>
+  <img src="portfolio/futurevault-ios-1.jpg" width="30%" />
+  <img src="portfolio/futurevault-ios-2.jpg" width="30%" />
+  <img src="portfolio/futurevault-ios-3.jpg" width="30%" />
+</p>
+
+### Hapfun: the portal for amusement park enthusiasts in Brazil (side project)
+
+**Website**
+
+<p>
+  <img src="portfolio/hapfun-web-1.jpg" width="49%" />
+  <img src="portfolio/hapfun-web-2.jpg" width="49%" />
+</p>
+
+**Mobile**
+
+<p>
+  <img src="portfolio/hapfun-mobile-1.jpg" width="30%" />
+  <img src="portfolio/hapfun-mobile-2.jpg" width="30%" />
+</p>
+
